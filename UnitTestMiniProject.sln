@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{17F584D4-12A1-4EA7-98C0-82E3A5A98857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest.Test", "Calculations.Test\UnitTest.Test.csproj", "{BABA4468-CADD-4B5F-A733-25022A95FAD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17F584D4-12A1-4EA7-98C0-82E3A5A98857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F584D4-12A1-4EA7-98C0-82E3A5A98857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F584D4-12A1-4EA7-98C0-82E3A5A98857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F584D4-12A1-4EA7-98C0-82E3A5A98857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABA4468-CADD-4B5F-A733-25022A95FAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABA4468-CADD-4B5F-A733-25022A95FAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABA4468-CADD-4B5F-A733-25022A95FAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABA4468-CADD-4B5F-A733-25022A95FAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CC8D31F-43B2-4ACA-856A-ADA303C8F52E}
+	EndGlobalSection
+EndGlobal
